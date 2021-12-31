@@ -1,5 +1,5 @@
 # SQL_Patika_Odev1
-pgadmin4
+pgadmin4_Odev1
 
 # SQL_Temelleri_Odev_1
 SQL_Temelleri_Odev_1
